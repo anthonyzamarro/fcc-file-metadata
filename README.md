@@ -1,13 +1,22 @@
+# FreeCodeCamp: Exercise Tracker
 
-# API Project: File Metadata Microservice for freeCodeCamp
+  This project is a part of the [FreeCodeCamp](https://www.freecodecamp.com) APIs & Microservices track.
 
-###    User stories:
-1. I can submit a form that includes a file upload.
-2. The form file input field  has the "name" attribute set to "upfile". We rely on this in testing.
-3. When I submit something, I will receive the file name and size in bytes within the JSON response
+  You can view my finished work [here](https://fcc-metafile.glitch.me/).
 
-### Usage :
-* Go to the main page, and upload a file using the provided form.
+## How to use
 
-### Hint:
-* To handle the file uploading you should use the [multer](https://www.npmjs.com/package/multer) npm package.
+ - Enter a username  in the Create a new User  box and click submit to add a new user
+ - Click See All Users to find the ID of the user you just entered
+ - Paste the userId  into the first box of Add Exercises and enter a description , duration , and date  for the exercise and click submit
+ - Get your userId  and paste it into the first box of View A Single User's Logs and enter your filter criteria and click submit
+## Technologies Used
+
+  The tech. used for this project includes:
+
+  - HTML5
+  - JavaScript (ES6)
+  - Node.js
+  - Express.js
+  - Git/Github
+  
